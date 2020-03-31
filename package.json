@@ -1,0 +1,18 @@
+{
+  "name": "shadowpractice",
+  "version": "1.0.0",
+  "description": "Add awesome shadows for the non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/wymerkd/shadowizard.git)"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Kyle Wymer",
+  "license": "ISC"
+}
